@@ -15,3 +15,9 @@ example/*.js
 static/
 __pycache__/
 *.pycgit
+.ipynb_checkpoints/
+*.env
+.idea/
+*.log
+*.swp
+*.tmp
